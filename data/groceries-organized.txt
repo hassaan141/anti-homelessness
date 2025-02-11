@@ -1,0 +1,54 @@
+Hi there! I'm Owend, the manager of this grocery store.
+
+To help me organize our inventory, I'd like to categorize our groceries into sections where we typically see them in a grocery store. Here's what I've come up with:
+
+**Meat Department**
+• Bacon
+• Beef
+• Chicken
+• Ground beef
+• Pork
+
+**Dairy Section**
+• Butter
+• Cheese
+• Eggs
+• Milk
+• Yogurt
+
+**Dry Goods**
+• Cereal
+• Flour
+• Pasta
+• Rice
+• Sugar
+
+**Produce**
+• Apples
+• Bananas
+• Carrots
+• Celery
+• Oranges
+
+**Pantry**
+• Almond butter
+• Baking powder
+• Canned goods (beans, tomatoes, etc.)
+• Coffee
+• Granola
+• Oats
+
+**Snacks**
+• Chips
+• Crackers
+• Popcorn kernels
+• Pretzels
+• Trail mix
+
+**Beverages**
+• Juice boxes
+• Milkshakes
+• Soda
+• Water
+
+Now that we have our categories organized, let me know if you'd like to add or move anything!

@@ -1,0 +1,20 @@
+ollama
+chromadb
+pdfplumber
+langchain
+langchain-core
+langchain-ollama
+langchain-community
+langchain_text_splitters
+unstructured
+unstructured[all-docs]
+fastembed
+pdfplumber
+sentence-transformers
+elevenlabs
+
+# Fixed dependencies
+protobuf<5
+nest-asyncio==1.4.3
+uvicorn==0.13.1
+jupyterlab==3.0.7
